@@ -94,6 +94,11 @@ footer {
   margin: 1rem auto;
 }
 
+.empty {
+  min-height: 100px;
+  display: none;
+}
+
 @media (min-width: 768px) {
   body {
     padding-top: 25vh;
@@ -122,8 +127,11 @@ footer {
 
   button {
     margin-top: 3rem;
-    position: relative;
+    position: absolute;
     bottom: 2rem;
+  }
+  .empty {
+    display: initial;
   }
 }
 
