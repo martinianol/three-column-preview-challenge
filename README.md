@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/html-and-css-CqLCc5NLb](https://your-solution-url.com)
 - Live Site URL: [https://fe-three-column-preview.herokuapp.com/]
 
 ## My process
